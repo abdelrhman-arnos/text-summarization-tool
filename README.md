@@ -1,6 +1,6 @@
 # Text Summarization Tool
 
-This is a simple Python script that demonstrates a text summarization tool using extractive summarization with the help of the NLTK library.
+Text Summarization Tool is a Python script that utilizes extractive summarization techniques to generate concise and meaningful summaries of longer texts. The tool leverages the NLTK library for natural language processing and provides customizable options for adjusting the number of sentences in the summary. With this tool, you can quickly extract the most important information from a text and save time in comprehending lengthy documents. Get started with text summarization effortlessly using this easy-to-use Python script.
 
 ## Overview
 
