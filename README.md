@@ -32,7 +32,7 @@ Feel free to customize the code according to your specific needs. You can experi
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/abdelrhman-arnos/text-summarization-tool/blob/main/LICENSE) file for more details.
 
 ## Acknowledgments
 
